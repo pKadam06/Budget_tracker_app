@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Income",
+        "category": "salary",
+        "amount": "25000"
+    },
+    {
+        "type": "Expense",
+        "category": "rent",
+        "amount": "8000"
+    },
+    {
+        "type": "Expense",
+        "category": "food",
+        "amount": "3000"
+    },
+    {
+        "type": "Expense",
+        "category": "shopping",
+        "amount": "10000"
+    }
+]
